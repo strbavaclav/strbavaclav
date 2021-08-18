@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @strbavaclav
+### Hi there, I'm Václav 👋
+
+
+## I'm a student and web developer!
+
+
 - 👀 I’m interested in development as React, Node and more
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on games and usefull apps
