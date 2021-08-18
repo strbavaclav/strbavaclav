@@ -1,7 +1,7 @@
-### Welcome on my profile 👋
-## My name is Václav Štrba 
+## Hi there👋
+### My name is Václav Štrba 
 
-## I'm a student and web developer!
+### I'm a student and web developer!
 
 - 👀 I’m interested in development as React, Node and more
 - 🌱 I’m currently learning React Native
