@@ -6,7 +6,7 @@
 - 👀 I’m interested in development as React, Node and more
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on games and usefull apps
-- 📫 You can reach me via linkedin
+- 📫 Interested in crypto
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
