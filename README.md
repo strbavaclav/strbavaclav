@@ -43,11 +43,6 @@
 <br />
 <br />
 
-
 [twitter]: https://twitter.com/StrbaVaclav
 [instagram]: https://www.instagram.com/vasekstrb9/
 [linkedin]: https://www.linkedin.com/in/v%C3%A1clav-%C5%A1trba-310365151/
-<!---
-strbavaclav/strbavaclav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
