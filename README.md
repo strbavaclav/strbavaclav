@@ -3,12 +3,11 @@
 
 ### I'm a student and web developer!
 
-- 👀 I’m interested in development as React, Node and more
-- 🌱 I’m currently learning React Native
+- 👀 I’m interested in React and React Native
+- 🌱 I’m currently learning Jest
 - 💞️ I’m looking to collaborate on games and usefull apps
-- Interested in crypto
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with 
+- 🌱 Interested in crypto
+- 👯 I’m looking forward to finish my degree 
 - 🎸 love to play guitar
 
 <br />
