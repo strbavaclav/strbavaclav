@@ -40,6 +40,10 @@
 
 
 <br />
+### What i would like to learn next
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.jpg" />
+
+
 <br />
 
 [twitter]: https://twitter.com/StrbaVaclav
