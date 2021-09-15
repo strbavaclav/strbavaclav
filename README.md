@@ -4,7 +4,7 @@
 ### I'm a student and web developer!
 
 - 👀 I’m interested in React and React Native
-- 🌱 I’m currently learning Jest
+- 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on games and usefull apps
 - 🌱 Interested in crypto
 - 👯 I’m looking forward to finish my degree 
