@@ -51,8 +51,11 @@
 <img align="left" alt="Formik" width="26px" src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" />
 
+<br />
+<br />
 
-
+### Which libraries i have used
+- <i>redux, react-redux, redux-thunk, @reduxjs/toolkit, react-router-dom, styled-components, lodash, marked, axios, jsonwebtoken, nodemailer,date-fns, expo, async-storage, react-navigation, typescript moment</i>
 
 <br />
 
