@@ -38,10 +38,11 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
 <img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-<img align="left" alt="Express" width="26px" src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" />
 <img align="left" alt="Styled Components" width="26px" src="https://styled-components.com/atom.png" />
 <img align="left" alt="Linux" width="26px" src="https://www.freepnglogos.com/uploads/linux-png/file-icons-flat-linux-svg-wikimedia-commons-6.png" />
 <img align="left" alt="Apple" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Apple-logo.png" />
+<img align="left" alt="Formik" width="26px" src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" />
+
 
 
 
@@ -52,9 +53,9 @@
 ### What i would like to learn next
 
 <img align="left" alt="Next.js" width="26px" src="https://cdn.auth0.com/blog/logos/nextjs-logo.png" />
+<img align="left" alt="Jenkins" width="26px" src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" />
 <img align="left" alt="Jest" width="26px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/jest.png" />
 <img align="left" alt="Redux Saga" width="26px" src="https://redux-saga.js.org//img/Redux-Saga-Logo-Portrait.png" />
-<img align="left" alt="Formik" width="26px" src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" />
 
 <br />
