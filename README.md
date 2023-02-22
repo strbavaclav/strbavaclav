@@ -62,7 +62,7 @@
 <br />
 
 ### Which libraries i have used
-- <i>redux, react-redux, redux-thunk, @reduxjs/toolkit, react-router-dom, styled-components, lodash, marked, axios, jsonwebtoken, nodemailer,date-fns, expo, async-storage, react-navigation, typescript moment</i>
+- <i>redux, react-redux, redux-thunk, @reduxjs/toolkit, react-router-dom, styled-components, lodash, marked, axios, jsonwebtoken, nodemailer,date-fns, expo, async-storage, react-navigation, typescript, moment</i>
 
 <br />
 
