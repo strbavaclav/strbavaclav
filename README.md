@@ -1,7 +1,7 @@
 ## Hi there👋
 ### My name is Václav Štrba 
 
-### I'm a student and web developer!
+### I'm a student and web app developer!
 
 - 👀 I’m interested in React and React Native
 - 🌱 I’m currently learning Next.js
