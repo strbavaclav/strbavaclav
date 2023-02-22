@@ -5,9 +5,9 @@
 
 - 👀 I’m interested in React and React Native
 - 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on usefull apps and games 
+- 💞️ I’m looking to collaborate on usefull apps and projects 
 - 🌱 Interested in crypto
-- 👯 I’m looking forward to finish my degree 
+- 👯 I’m looking forward to finish my master degree 
 - 🎸 love to play guitar
 
 <br />
