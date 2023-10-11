@@ -41,10 +41,6 @@
 <img align="left" alt="Apple" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Apple-logo.png" />
 <img align="left" alt="Formik" width="26px" src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" />
 
-
-
-
-
 <br />
 <br />
 
